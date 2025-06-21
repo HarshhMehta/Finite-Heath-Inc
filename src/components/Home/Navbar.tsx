@@ -3,8 +3,7 @@ import gsap, { ScrollTrigger } from "gsap/all";
 import Overflow from "../../utils/Overflow";
 import { Link } from "react-router-dom";
 import { useGSAP } from "@gsap/react";
-import { FaGithub } from "react-icons/fa6";
-import { FaLinkedin } from "react-icons/fa";
+
 
 const Navbar = ({
   logoColor,
