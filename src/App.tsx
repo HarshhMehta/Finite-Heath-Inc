@@ -6,8 +6,6 @@ import { Routes, Route, useLocation } from "react-router";
 import WorkShowCase from "./components/Work/WorkShowCase";
 import { AnimatePresence } from "framer-motion";
 import Loader from "./components/Loader";
-import NotSupported from "./components/NotSupported";
-import Work from "./components/Home/Work";
 
 const App = () => {
   const [logoColor, setLogoColor] = useState("#fff");
