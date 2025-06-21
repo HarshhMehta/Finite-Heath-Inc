@@ -7,7 +7,7 @@ import Spread from "./Spread";
 import Story from "./Story";
 import { motion } from "framer-motion";
 import { useLenisGsap } from "../hooks/useLenisGsap";
-import WorkShowCase from "../../components/Work/WorkShowCase";
+
 import {
   anim,
   innerDivTransition,
