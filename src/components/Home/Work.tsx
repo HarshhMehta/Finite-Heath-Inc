@@ -1,12 +1,12 @@
 import { motion } from "framer-motion";
 import workimg1 from "../../assets/work_img1.webp";
-import workimg2 from "../../assets/workimg2.webp";
+
 import workimg3 from "../../assets/workimg3.webp";
-import workimg4 from "../../assets/workimg4.webp";
+
 import workvid1 from "../../assets/work_vid1.mp4";
-import workvid2 from "../../assets/workvid2.mp4";
+
 import workvid3 from "../../assets/workvid3.mp4";
-import workvid4 from "../../assets/workvid4.mp4";
+
 
 const Work = ({
   setCursorProps,
